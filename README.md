@@ -6,9 +6,7 @@
 ### Prerequisites
 
 ```
-git init
-git remote add origin git@github.com:WhiteHatCP/ctf-tools.git
-git pull origin master
+git clone git@github.com:WhiteHatCP/ctf-tools.git
 git submodule update --init --recursive
 ```
 
