@@ -1,3 +1,6 @@
 [submodule "sha1collider"]
 	path = sha1collider
 	url = git@github.com:nneonneo/sha1collider.git
+[submodule "featherduster"]
+	path = featherduster
+	url = git@github.com:nccgroup/featherduster.git
