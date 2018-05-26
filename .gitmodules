@@ -1,0 +1,3 @@
+[submodule "sha1collider"]
+	path = sha1collider
+	url = git@github.com:nneonneo/sha1collider.git
