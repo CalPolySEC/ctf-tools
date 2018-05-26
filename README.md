@@ -12,7 +12,21 @@ git pull origin master
 git submodule update --init --recursive
 ```
 
-### Adding a new CTF tool:
+### Installing Common Tools:
+
+If running on a Unix environment:
+
+```
+./aptInstall.sh
+```
+
+If running on macOS with [Homebrew](https://brew.sh "Install Homebrew") installed:
+
+```
+./brewInstall.sh
+```
+
+### Adding a New CTF Tool:
 
 ```
 git submodule add git@github.com:[REPO_URL]
